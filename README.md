@@ -1,10 +1,10 @@
 <h1 align="center">Crud</h1>
 
 ## :memo: Descrição
-
+* Programa para adicionar dados
 
 ## :books: Funcionalidades
-
+* Programa para a adicção de dados e se solicitado, a edição dos mesmo
 ## :wrench: Tecnologias utilizadas
 * React JS
 ## :rocket: Rodando o projeto
